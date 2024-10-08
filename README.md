@@ -1,4 +1,4 @@
-FireKraxx
+##FireKraxx
 FireKraxx by GNTSecurity is a powerful and user-friendly custom Kodi configuration tool that enhances your streaming experience. By integrating the most recent and inclusive addons, FireKraxx unlocks a wide variety of content, including movies, TV shows, live sports, and more. This project provides tools and scripts for seamless addon installation, ensuring an optimized Kodi environment.
 
 Features
