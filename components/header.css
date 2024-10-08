@@ -1,0 +1,29 @@
+.header {
+    background-color: #232f3e;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+}
+
+.logo img {
+    width: 120px;
+}
+
+.search-bar {
+    flex-grow: 1;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 10px;
+}
+
+.search-bar input {
+    padding: 8px;
+    font-size: 14px;
+    width: 250px;
+}
+
+.cart img {
+    width: 30px;
+}
